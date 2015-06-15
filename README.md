@@ -31,3 +31,9 @@ gem update --system
 # ruby awesome 
 
 * [https://github.com/markets/awesome-ruby](https://github.com/markets/awesome-ruby)
+
+# Pry - an IRB alternative and runtime developer console
+
+```
+gem install pry
+```
