@@ -15,5 +15,19 @@ then run it at the shell prompt.
 ruby hello.rb
 ```
 
+# bundler 
+dependency manager
+
+```
+gem install bundler
+```
+
+# gem update
+```
+gem update --system
+```
 
 
+# ruby awesome 
+
+* [https://github.com/markets/awesome-ruby](https://github.com/markets/awesome-ruby)
